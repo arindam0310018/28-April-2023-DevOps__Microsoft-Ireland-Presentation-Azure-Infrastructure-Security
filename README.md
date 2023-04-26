@@ -10,6 +10,8 @@ Additionally, I will run __3 Live Demos, covering 3 different areas of Cloud Inf
 | --------- |
 | The Garage space in Ireland at One Microsoft Court, Microsoft’s new Engineering Hub in Dublin. |
 | ![image](https://user-images.githubusercontent.com/29681063/234447415-2e7932ab-2c99-46e4-beb1-0f0776ce4c59.png) |
+| ![image](https://user-images.githubusercontent.com/29681063/234521558-b5458184-a1a7-432b-bd82-63457e732910.png) |
+
 
 | __PRESENTATION OBJECTIVES:-__ |
 | --------- |
