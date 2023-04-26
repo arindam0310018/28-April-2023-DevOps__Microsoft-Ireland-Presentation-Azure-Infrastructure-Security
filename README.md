@@ -10,7 +10,7 @@ Additionally, I will run __3 Live Demos, covering 3 different areas of Cloud Inf
 | --------- |
 | The Garage space in Ireland at One Microsoft Court, Microsoft’s new Engineering Hub in Dublin. |
 | ![image](https://user-images.githubusercontent.com/29681063/234447415-2e7932ab-2c99-46e4-beb1-0f0776ce4c59.png) |
-| ![image](https://user-images.githubusercontent.com/29681063/234521558-b5458184-a1a7-432b-bd82-63457e732910.png) |
+| ![image](https://user-images.githubusercontent.com/29681063/234533878-defd59eb-360d-4334-97c0-9c6cfc6af936.png) |
 
 
 | __PRESENTATION OBJECTIVES:-__ |
@@ -21,12 +21,12 @@ Additionally, I will run __3 Live Demos, covering 3 different areas of Cloud Inf
 | 1. | Immutable laws of Security. |
 | 2. | Identity Access Management (IAM). |
 | 3. | Identity Access Management (IAM) with Devops. |
-| 4. | Controls. |
-| 5. | Controls with Devops. |
-| 6. | Services and Azure Devops. |
-| 7. | Microsoft Defender. |
-| 8. | Microsoft Defender and Devops. |
-| 9. | Live Demo. |
+| 4. | Subscription, Resource Group, and Role Based Access Control (RBAC) |
+| 5. | Role Based Access Controls with Devops. |
+| 6. | Measures to Protect Azure Services and Azure Devops. |
+| 7. | Microsoft Defender for Cloud. |
+| 8. | Microsoft Defender for Devops. |
+| 9. | 3 Live demos covering 3 different areas of Cloud Infrastructure Security |
 | 10. | Questions. |
 
 | __LIVE DEMO:-__ |
