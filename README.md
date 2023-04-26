@@ -1,4 +1,4 @@
-# MICROSOFT IRELAND PRESENTATION: INFRASTRUCTURE SECURITY USING AZURE DEVOPS
+# Microsoft Ireland Presentation: Infrastructure Security using Azure Devops
 
 Greetings to my fellow Technology Advocates and Specialists.
 
