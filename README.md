@@ -38,6 +38,13 @@ Additionally, I will run __3 Live Demos, covering 3 different areas of Cloud Inf
 | 2. | Rotate Storage Account Keys | https://github.com/arindam0310018/29-Aug-2022-DevOps__Rotate-Storage-Account-Keys |
 | 3. | Scan Docker Images in Azure Container Registry using Aquasec Trivy and Azure Devops | https://github.com/arindam0310018/04-Apr-2022-DevOps__Scan-Images-In-ACR-Using-Trivy |
 
+| __VIRTUAL SESSION:-__ |
+| --------- |
+| I __RECORDED__ my Presentation for __MICROSOFT IRELAND EVENT -  AZURE AND SECURITY__ |
+| Duration of My Demo = __1 Hour 18 Mins 28 Secs__ |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uekcRlcC1Pw/0.jpg)](https://www.youtube.com/watch?v=uekcRlcC1Pw) |  
+
+
 __Hope You Enjoyed the Session!!!__
 
 __Stay Safe | Keep Learning | Spread Knowledge__
