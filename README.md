@@ -34,10 +34,10 @@ Additionally, I successfully executed __3 Live Demos, covering 3 different areas
 | 9. | 3 Live demos covering 3 different areas of Cloud Infrastructure Security |
 | 10. | Questions. |
 
-| __LIVE DEMO:-__ |
+| __DEMO TOPICS:-__ |
 | --------- |
 
-| __#__ | __TOPICS__ | __REPOSITORY__ |
+| __#__ | __CATEGORY__ | __REPOSITORY__ |
 | --------- | --------- | --------- |
 | 1. | Entitlement Management, Catalog and Access Package | https://github.com/arindam0310018/24-Feb-2023-Microsoft-Graph-Powershell_Create-Catalog-AccessPackage-Roles-Policies |
 | 2. | Rotate Storage Account Keys | https://github.com/arindam0310018/29-Aug-2022-DevOps__Rotate-Storage-Account-Keys |
